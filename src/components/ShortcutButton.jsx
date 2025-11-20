@@ -95,7 +95,7 @@ const ShortcutButton = () => {
             </a>
 
             <a
-              href="mailto:sudiptapanda274@gmail.com"
+              href="mailto:sudiptapanda980@gmail.com"
               onClick={() => setIsOpen(false)}
               className="w-full flex items-center justify-center space-x-2 p-2 text-gray-600 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition-colors"
             >
