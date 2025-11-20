@@ -199,7 +199,7 @@ const Footer = () => {
                     className="text-gray-300 hover:text-white focus:text-white text-sm transition-colors break-all hover:underline focus:outline-none focus:underline"
                     aria-label="Send email to sudiptapanda274@gmail.com"
                   >
-                    sudiptapanda274@gmail.com
+                    sudiptapanda980@gmail.com
                   </a>
                 </div>
               </div>
