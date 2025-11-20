@@ -22,7 +22,7 @@ const ResumeDownload = () => {
     } catch (error) {
       console.error('Error downloading resume:', error);
       // Fallback: open in new tab
-      window.open('/resume.pdf', '_blank');
+      window.open('/Sudipta_Panda__resume (4).pdf', '_blank');
     }
   };
 
