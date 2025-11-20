@@ -72,7 +72,7 @@ const Home = () => {
                 </Link>
 
                 <a 
-                  href="/resume.pdf" 
+                  href="/Sudipta_Panda__resume (4).pdf" 
                   download
                   className="px-8 py-4 border-2 border-indigo-600 text-indigo-600 rounded-xl font-semibold hover:bg-indigo-600 hover:text-white transition-all duration-300 transform hover:scale-105"
                 >
