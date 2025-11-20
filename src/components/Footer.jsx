@@ -195,7 +195,7 @@ const Footer = () => {
                 <div className="min-w-0 flex-1">
                   <p className="text-xs text-gray-400 mb-1">Email</p>
                   <a 
-                    href="mailto:sudiptapanda274@gmail.com" 
+                    href="mailto:sudiptapanda980@gmail.com" 
                     className="text-gray-300 hover:text-white focus:text-white text-sm transition-colors break-all hover:underline focus:outline-none focus:underline"
                     aria-label="Send email to sudiptapanda274@gmail.com"
                   >
