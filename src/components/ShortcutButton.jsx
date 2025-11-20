@@ -85,7 +85,7 @@ const ShortcutButton = () => {
             </button>
 
             <a
-              href="/resume.pdf"
+              href="/Sudipta_Panda__resume (4).pdf"
               download
               onClick={() => setIsOpen(false)}
               className="w-full flex items-center justify-center space-x-2 p-2 text-gray-600 hover:text-green-600 hover:bg-green-50 rounded-lg transition-colors"
